@@ -54,3 +54,6 @@ print(results)
 - **Data Preparation**: Ensure your input data is correctly formatted according to the ID83 standard.
 - **Script Modification**: The `mmsig_ID83.R` script contains modifications to handle ID83 data specifically.
 
+## Developers
+Benjamin Diamond and Francesco Maura
+
